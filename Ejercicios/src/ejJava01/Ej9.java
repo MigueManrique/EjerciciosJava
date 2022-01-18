@@ -1,3 +1,4 @@
+package ejJava01;
 
 public class Ej9 {
 

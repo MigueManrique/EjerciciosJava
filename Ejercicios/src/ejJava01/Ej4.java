@@ -1,3 +1,4 @@
+package ejJava01;
 import java.util.Scanner;
 
 public class Ej4 {
